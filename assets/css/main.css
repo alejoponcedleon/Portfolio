@@ -4821,12 +4821,13 @@ a img {
 }
 
 #particles-js {
-    background: #1488CC;
+    background: #00ab55;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: -webkit-linear-gradient(to right, #026835, #00ab55);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2B32B2, #1488CC);
+    background: linear-gradient(to right, #026835, #00ab55);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   
 
     display: flex;
     vertical-align: bottom;
@@ -4836,7 +4837,6 @@ a img {
     background-size: cover;
     background-attachment: fixed
 }
-
 #particles-js .particles-js-canvas-el {
     width: 100% !important;
     height: 100vh !important
@@ -5041,7 +5041,7 @@ a img {
 }
 
 .user-projects li {
-    color: #1488CC;
+    color: #026835;
     font-size: 1.1rem
 }
 
@@ -5084,9 +5084,9 @@ a img {
     display: inline-block;
     margin: 10px 0;
     padding: 5px;
-    color: #1488CC;
+    color: #026835;
     background-color: transparent;
-    border: 1px solid #1488CC;
+    border: 1px solid #026835;
     border-radius: 10px;
     text-align: center;
     outline: 0;
@@ -5097,24 +5097,25 @@ a img {
 
 .project-link:active,
 .project-link:hover {
-    background-color: #5347a8;
-    border-color: #5347a8;
+    background-color: #026835;
+    border-color: #026835;
     color: #fff;
     transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
 
 .footer {
-    background: #1488CC;
+    background: #00ab55;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
+    background: -webkit-linear-gradient(to right, #026835, #00ab55);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2B32B2, #1488CC);
+    background: linear-gradient(to right, #026835, #00ab55);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     padding: 10px 0;
     margin-top: 100px;
     text-align: center;
     color: #fff
 }
+
 
 .footer .love {
     color: red
